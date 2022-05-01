@@ -2,7 +2,7 @@
 
 ## Algorithm
 * [Singular Spectrum Decomposition](https://project.dke.maastrichtuniversity.nl/ssd/)
-* [multivariate singular spectrum decomposition] 
+* multivariate singular spectrum decomposition
 
 ## Papers
 
