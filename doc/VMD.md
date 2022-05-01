@@ -6,7 +6,7 @@
 * [二维变分模态分解 Two-dimensional Variational Mode Decomposition](https://ww2.mathworks.cn/matlabcentral/fileexchange/45918-two-dimensional-variational-mode-decomposition?s_tid=FX_rc2_behav) 
 * [VMD的python实现](https://github.com/vrcarva/vmdpy)
 * [复值变分模态分解CVMD]()
-
+* [连续变分模态分解Successive Variational Mode Decomposition](https://ww2.mathworks.cn/matlabcentral/fileexchange/98649-successive-variational-mode-decomposition-svmd-m?s_tid=FX_rc2_behav)
 ## 相关论文
 
 * Dragomiretskiy, K. and D. Zosso, Variational Mode Decomposition. IEEE Transactions on Signal Processing, 2014. 62(3): p. 531-544.[论文链接](https://ieeexplore.ieee.org/document/6655981)
