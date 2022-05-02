@@ -61,7 +61,7 @@
 * [奇异谱分解 (Singular Spectrum Decomposition,SSD)](./doc/SSD.md)
 * [经验小波 (Empirical Wavelet Transforms,EWT)](./doc/EWT.md)
 * [短时窄带模式分解 (short-time narrow-banded mode decomposition,STNBMD)](./doc/STNBMD.md)
-* [spatio-spectral decomposition] (https://github.com/svendaehne/matlab_SSD)
+* [spatio-spectral decomposition](https://github.com/svendaehne/matlab_SSD)
 * 一些新的分解方法
   * 极值点加权模式分解EWMD
   * 极值点对称模式分解
